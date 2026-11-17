@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (unreleased)
+## 0.1.0 (2026-11-14)
 
 First version, from the owner's decisions on minors and guardians, where the kid always decides:
 - links by a code handed over in person, with the limits held under a race;
