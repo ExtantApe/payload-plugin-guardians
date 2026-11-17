@@ -2,7 +2,7 @@
 
 Guardians for Payload: link a minor's account to up to two guardians, turn a guardian's changes to the minor's records into suggestions the minor decides, and route the minor's bigger requests to a guardian.
 
-**Status:** 0.1.0, not on npm yet. 46 tests pass against Payload 3.92 with an in-memory MongoDB replica set. They cover links and every refusal, a race for the last place, canActAs, guardian writes refused on every path, suggestions from start to finish, requests with the first decision winning, coming of age, deleted accounts, races between two decisions, access and events. Not tested: GraphQL, a real role switcher (the tests stand in for one with a header), and uploads on a listed collection. No site uses it yet, and none will turn it on before a legal review of minors and guardian consent.
+**Status:** 0.1.0 is on npm (2026-11-14). 46 tests pass against Payload 3.92 with an in-memory MongoDB replica set. They cover links and every refusal, a race for the last place, canActAs, guardian writes refused on every path, suggestions from start to finish, requests with the first decision winning, coming of age, deleted accounts, races between two decisions, access and events. Not tested: GraphQL, a real role switcher (the tests stand in for one with a header), and uploads on a listed collection. No site uses it yet, and none will turn it on before a legal review of minors and guardian consent.
 
 ## What it does
 
